@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本地输出与临时文件
+/preview/
+/out/
+*.tmp
+
+# Office 临时锁文件
+~$*
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
