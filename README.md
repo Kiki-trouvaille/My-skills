@@ -41,7 +41,7 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1
 ## 目录结构
 
 ```
-skills/
+My-skills/
 ├── group-meeting-ppt/            组会汇报 PPT + 讲稿
 │   ├── SKILL.md
 │   ├── references/               设计规范、内容规则、讲稿框架、字段说明

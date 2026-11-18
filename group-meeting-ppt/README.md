@@ -138,4 +138,4 @@ examples/                完整样例（json / pptx / 讲稿 / 自绘示意图�
 
 ## 许可
 
-MIT，见 [LICENSE](LICENSE)。
+MIT，见仓库根目录的 [LICENSE](../LICENSE)。
